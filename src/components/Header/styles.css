@@ -1,0 +1,10 @@
+#main-header {
+  display: block;
+  padding: 25px 0;
+  background: #da552f;
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
